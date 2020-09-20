@@ -5,6 +5,7 @@ JSP/Servlet와 FrontController 디자인패턴을 적용한 MVC2 프로젝트
 ##### 제작일자(Create date): 2020-09-19 ~ 2020-09-20
 ##### 작성언어(Write language): Java
 ##### IDE: Eclipse IDE with Spring Tool Suite 4-4.7.2.
+##### 웹 서버(Web Server): Apache Tomcat 9
 ##### 데이터베이스: VO설계만 하였음. (DB적용 모형만 작성) // VO design only. (Create DB application model only)
 ##### 제작자(Author): 도도(Dodo) / rabbit.white at daum dot net
 ##### 프레임워크(Framework): 
