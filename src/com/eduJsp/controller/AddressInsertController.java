@@ -12,7 +12,7 @@ public class AddressInsertController implements Controller {
 	public void execute(HttpServletRequest req, HttpServletResponse res) throws
 		ServletException, IOException{
 
-		HttpUtil.forward(req, res, "/addressInsert.jsp");
+		HttpUtil.forward(req, res, "/WEB-INF/view/addressInsert.jsp");
 		
 	}
 
