@@ -37,6 +37,7 @@ JSP/Servlet와 FrontController 디자인패턴을 적용한 MVC2 프로젝트
 ##### (The basic functions necessary to compose the MVC project are summarized.)
 
 ### 3. 시연(Demonstration)
+##### 1. JSP/Servlet MVC2 - 구현하기(JSP/Servlet MVC2-implementing), https://youtu.be/oMmmJGu_9Mw, Accessed by 2020-09-21, Last Modified 2020-09-21.
 
 ### 4. 참고자료(Reference)
 ##### 1. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-20, Last Modified .
