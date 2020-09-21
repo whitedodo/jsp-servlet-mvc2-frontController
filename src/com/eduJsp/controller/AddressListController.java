@@ -12,7 +12,7 @@ public class AddressListController implements Controller {
 	public void execute(HttpServletRequest req, HttpServletResponse res) throws
 	ServletException, IOException {
 		
-		HttpUtil.forward(req, res, "/addressList.jsp");
+		HttpUtil.forward(req, res, "/WEB-INF/view/addressList.jsp");
 	}
 
 }
